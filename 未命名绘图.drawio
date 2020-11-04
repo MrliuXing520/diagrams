@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-04T03:21:31.827Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="xAavXPygCALa_vpqjA4m" version="13.8.9-1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-04T03:23:38.713Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="TUcwcHSj86gK0420n5DW" version="13.8.9-1" type="github">
   <diagram id="KCO1H4rR9zwA9Dpc1VqZ" name="第 1 页">
     <mxGraphModel dx="942" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,6 +6,15 @@
         <mxCell id="1" parent="0" />
         <mxCell id="b61sdNrOb1ijLtI7mMx8-1" value="学生" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="80" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="b61sdNrOb1ijLtI7mMx8-2" value="教师" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="310" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="b61sdNrOb1ijLtI7mMx8-3" value="医院" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="490" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="b61sdNrOb1ijLtI7mMx8-4" value="外来人员" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="80" y="280" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
