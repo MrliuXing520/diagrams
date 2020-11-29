@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-06T08:43:56.259Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="4FHDJVXuv6BuTsNaDNX0" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-29T09:11:44.688Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.47" etag="CP0oQ3Ts2X3j0zVJDVX5" version="13.10.4" type="github">
   <diagram id="KCO1H4rR9zwA9Dpc1VqZ" name="第 1 页">
     <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -75,15 +75,6 @@
         <mxCell id="unYZL8rSU1h0fPBsATKe-3" value="联系方式" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="440" y="30" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="unYZL8rSU1h0fPBsATKe-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="530" y="120" as="targetPoint" />
-            <mxPoint x="625" y="80" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="unYZL8rSU1h0fPBsATKe-4" value="体温" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="500" y="30" width="50" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="unYZL8rSU1h0fPBsATKe-9" value="身份证号码" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="10" y="420" width="50" height="50" as="geometry" />
         </mxCell>
@@ -120,43 +111,19 @@
         <mxCell id="TvAXjNbtjJ89C0bE3LQs-2" value="姓名" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="70" y="420" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7R-bzzH2TMS4uU3eO5y1-1" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7R-bzzH2TMS4uU3eO5y1-1" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="120" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7R-bzzH2TMS4uU3eO5y1-2" value="教师" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="7R-bzzH2TMS4uU3eO5y1-2" value="教师" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="390" y="120" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7R-bzzH2TMS4uU3eO5y1-3" value="体温" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="500" y="30" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="7R-bzzH2TMS4uU3eO5y1-4" value="联系方式" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="440" y="30" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="7R-bzzH2TMS4uU3eO5y1-5" value="姓名" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="7R-bzzH2TMS4uU3eO5y1-5" value="姓名" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="380" y="30" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7R-bzzH2TMS4uU3eO5y1-6" value="工号" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="7R-bzzH2TMS4uU3eO5y1-6" value="工号" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="320" y="30" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7R-bzzH2TMS4uU3eO5y1-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" source="7R-bzzH2TMS4uU3eO5y1-6" target="7R-bzzH2TMS4uU3eO5y1-2" parent="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7R-bzzH2TMS4uU3eO5y1-8" value="教师" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="490" y="120" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="7R-bzzH2TMS4uU3eO5y1-9" value="体温" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="600" y="30" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="7R-bzzH2TMS4uU3eO5y1-10" value="联系方式" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="540" y="30" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="7R-bzzH2TMS4uU3eO5y1-11" value="姓名" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="480" y="30" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="7R-bzzH2TMS4uU3eO5y1-12" value="工号" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="420" y="30" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="7R-bzzH2TMS4uU3eO5y1-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" source="7R-bzzH2TMS4uU3eO5y1-12" target="7R-bzzH2TMS4uU3eO5y1-8" parent="1">
+        <mxCell id="7R-bzzH2TMS4uU3eO5y1-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="7R-bzzH2TMS4uU3eO5y1-6" target="7R-bzzH2TMS4uU3eO5y1-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
